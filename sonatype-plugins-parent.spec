@@ -2,7 +2,7 @@
 
 Name:           sonatype-plugins-parent
 Version:        8
-Release:        6%{?dist}
+Release:        5%{?dist}
 Summary:        Sonatype Plugins Parent POM
 BuildArch:      noarch
 Group:          Development/Libraries
@@ -34,9 +34,6 @@ cd ./plugins-parent
 %doc LICENSE
 
 %changelog
-* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 8-6
-- Mass rebuild 2013-12-27
-
 * Fri Feb 15 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 8-5
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
